@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Ugly-Number\bin\Debug\net7.0\Ugly-Number.exe
+C:\Users\trigo\Programação\C#\Ugly-Number\bin\Debug\net7.0\Ugly-Number.deps.json
+C:\Users\trigo\Programação\C#\Ugly-Number\bin\Debug\net7.0\Ugly-Number.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Ugly-Number\bin\Debug\net7.0\Ugly-Number.dll
+C:\Users\trigo\Programação\C#\Ugly-Number\bin\Debug\net7.0\Ugly-Number.pdb
+C:\Users\trigo\Programação\C#\Ugly-Number\obj\Debug\net7.0\Ugly-Number.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Ugly-Number\obj\Debug\net7.0\Ugly-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Ugly-Number\obj\Debug\net7.0\Ugly-Number.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Ugly-Number\obj\Debug\net7.0\Ugly-Number.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Ugly-Number\obj\Debug\net7.0\Ugly-Number.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Ugly-Number\obj\Debug\net7.0\Ugly-Number.dll
+C:\Users\trigo\Programação\C#\Ugly-Number\obj\Debug\net7.0\refint\Ugly-Number.dll
+C:\Users\trigo\Programação\C#\Ugly-Number\obj\Debug\net7.0\Ugly-Number.pdb
+C:\Users\trigo\Programação\C#\Ugly-Number\obj\Debug\net7.0\Ugly-Number.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Ugly-Number\obj\Debug\net7.0\ref\Ugly-Number.dll
